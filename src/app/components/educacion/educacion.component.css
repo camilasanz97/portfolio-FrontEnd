@@ -1,0 +1,15 @@
+.row{
+    padding: 20px;
+}
+div{
+    background: #ffffff;
+    color: #c93384;
+    font-weight: bold;
+}
+h1, h3{
+    display: inline;
+}
+
+.color {
+    color: #c93384;
+}
